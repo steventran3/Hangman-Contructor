@@ -1,0 +1,24 @@
+{
+  "name": "constructor_hangman",
+  "version": "1.0.0",
+  "description": "create hangman game using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcalderon123/Constructor_Hangman.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcalderon123/Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/lcalderon123/Constructor_Hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "is-letter": "^1.1.1",
+    "prompt": "^1.0.0"
+  }
+}
