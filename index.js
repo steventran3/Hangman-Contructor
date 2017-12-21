@@ -61,7 +61,7 @@ game = {
 		    	self.keepPromptingUser();
 		    } else if(self.guessesRemaining === 0){
 			    	console.log('You lost! The food was', self.currentWrd.word);
-			    	console.log('Gotta catch um all!');
+			    	console.log('Maybe next time!');
 			  } else{
 			    	console.log(self.currentWrd.wordRender());
 			  }
